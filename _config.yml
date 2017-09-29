@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "http://KatherineWard.github.io" 
+baseurl: "" 
 url: "http://KatherineWard.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
